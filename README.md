@@ -8,9 +8,9 @@
 
 * **Telefone** :  (38) 9-9802-5483 
 
-* **Linkedin**  [br.linkedin.com/in/luananalista](br.linkedin.com/in/luananalista) 
+* **Linkedin**  [br.linkedin.com/in/luananalista](https://www.linkedin.com/in/luananalista) 
 
-* **Site**  [www.analiseinfo.com.br](www.analiseinfo.com.br)
+* **Site**  [www.analiseinfo.com.br](http://www.analiseinfo.com.br/)
 
 ---
 
