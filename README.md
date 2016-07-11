@@ -26,7 +26,7 @@
 
 ###Formação###
 
-**02/2013 – Cursando** ***Ensino Superior***
+**02/2013 – Cursando** ***Bacharel Sitemas de Informação***
 
 * **Faculdades** CNEC Unaí
  
