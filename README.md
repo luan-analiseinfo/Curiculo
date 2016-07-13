@@ -41,13 +41,13 @@
 ###Competências do Cargo###
 
 * **Banco de dados** :
-Firebird, Interbase, PostgreSQL; MySQL
+**MySQL** _Intermediário_,**PostgreSQL** _Básico_, **Modelagem Banco de Dados** _Intermediário_, **MySQL WorkBeach** _Intermediário_.
 
 * **Programação** :
-JAVA, JavaScript , jQuery, Ajax , JSF, PrimeFaces, IceFaces, RichFaces, Ejb  SpringSecurity, CSS, HTML, Ajax, JPA, JUnit.
+**JAVA** _Avançado_, **JavaScript** _Avançado_, **jQuery** _Intermediário_, **Ajax** _Intermediário_, **JSF** _Avançado_, **PrimeFaces** _Avançado_, **IceFaces** _Avançado_, **RichFaces** _Avançado_, **Omnifaces** _Intermediário_,**iReport** _Intermediário_, **Jasper Reports** _Intermediário_, **Ejb** _Intermediário_, **SpringSecurity** _Intermediário_, **CSS** _Intermediário_, **HTML** _Avançado_, **Ajax** _Intermediário_, **JPA** _Intermediário_, **Hibernate** _Intermediário_,**JUnit** _Intermediário_, **Apache Struts** _Básico_, **Spring MVC** _Básico_.
 
 * **Outros** :
-Arquitetura MVC, modelagem de negócio BPM, POO, engenharia de software, IDE Eclipse, Linux, Windows, SpringBoot , TomCat, Git, Maven, Hibernate, AngularJS 2.0 básico, MySQL WorkBeach.
+**Arquitetura MVC** _Avançado_, **Modelagem de Negócio BPM** _Intermediário_,**POO** _Avançado_, **Engenharia de Software** _Intermediário_, **IDE Eclipse** _Avançado_, **Linux** _Básico_, **Windows** _Avançado_, **SpringBoot** _Intermediário_,**TomCat** _Intermediário_, **Git** _Avançado_,**Maven** _Avançado_,**AngularJS 2.0** _Básico_,
 
 ---
 
