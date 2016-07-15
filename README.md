@@ -6,7 +6,7 @@
 
 * **E** - **mail** :  [luan.analise@outlook.com](mailto:luan.analise@outlook.com) 
 
-* **Telefone** :  (38) 9-9802-5483 
+* **Telefone** :  (61) 9-9802-5483 
 
 * **Linkedin**  [br.linkedin.com/in/luananalista](https://www.linkedin.com/in/luananalista) 
 
