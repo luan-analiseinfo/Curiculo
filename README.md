@@ -44,10 +44,10 @@
 **MySQL** _Intermediário_,**PostgreSQL** _Básico_, **Modelagem Banco de Dados** _Intermediário_, **MySQL WorkBeach** _Intermediário_.
 
 * **Programação** :
-**JAVA** _Avançado_, **JavaScript** _Avançado_, **jQuery** _Intermediário_, **Ajax** _Intermediário_, **JSF** _Avançado_, **PrimeFaces** _Avançado_, **IceFaces** _Avançado_, **RichFaces** _Avançado_, **Omnifaces** _Intermediário_,**iReport** _Intermediário_, **Jasper Reports** _Intermediário_, **Ejb** _Intermediário_, **SpringSecurity** _Intermediário_, **CSS** _Intermediário_, **HTML** _Avançado_, **Ajax** _Intermediário_, **JPA** _Intermediário_, **Hibernate** _Intermediário_,**JUnit** _Intermediário_, **Apache Struts** _Básico_, **Spring MVC** _Básico_.
+**JAVA** _Avançado_,**Spring MVC** _Intermediário_,**JSF** _Avançado_, **PrimeFaces** _Avançado_, **Spring Data** _Intermediário_,**JavaScript** _Avançado_, **jQuery** _Intermediário_, **Ajax** _Intermediário_, **IceFaces** _Avançado_, **RichFaces** _Avançado_, **Omnifaces** _Intermediário_,**iReport** _Intermediário_, **Jasper Reports** _Intermediário_, **Ejb** _Intermediário_, **SpringSecurity** _Intermediário_, **CSS** _Intermediário_, **HTML** _Avançado_, **Ajax** _Intermediário_, **JPA** _Intermediário_, **Hibernate** _Intermediário_,**JUnit** _Intermediário_, **Apache Struts** _Básico_, .
 
 * **Outros** :
-**Arquitetura MVC** _Avançado_, **Modelagem de Negócio BPM** _Intermediário_,**POO** _Avançado_, **Engenharia de Software** _Intermediário_, **IDE Eclipse** _Avançado_, **Linux** _Básico_, **Windows** _Avançado_, **SpringBoot** _Intermediário_,**TomCat** _Intermediário_, **Git** _Avançado_,**Maven** _Avançado_,**AngularJS 2.0** _Básico_,
+**Arquitetura MVC** _Avançado_, **Modelagem de Negócio BPM** _Intermediário_,**POO** _Avançado_, **Engenharia de Software** _Intermediário_, **IDE Eclipse** _Avançado_, **Linux** _Básico_, **Windows** _Avançado_, **SpringBoot** _Intermediário_,**TomCat** _Intermediário_, **Git** _Avançado_,**Maven** _Avançado_,**AngularJS 2.0** _Básico_.
 
 ---
 
