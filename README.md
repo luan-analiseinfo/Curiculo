@@ -6,11 +6,11 @@
 
 * **E** - **mail** :  [luan.analise@outlook.com](mailto:luan.analise@outlook.com) 
 
-* **Telefone** :  (61) 9-9802-5483 
+* **Telefone** :  (61) 9688-1871 
 
 * **Linkedin**  [br.linkedin.com/in/luananalista](https://www.linkedin.com/in/luananalista) 
 
-* **Site**  [www.analiseinfo.com.br](http://www.analiseinfo.com.br/)
+* **Site**  [about.me/luan.analise](https://about.me/luan.analise)
 
 ---
 
@@ -62,15 +62,3 @@
 * **Nível** Estagiário 
 
 * **Atribuições do cargo**  Realizar manutenção de sistemas ; Atualizar sistemas e aplicações; Suporte sistema (Control, MasterCross)
-
-
-
-**06/2013 - 06/2014**  ***Freelancer Full Time***
-
-* **Cargo**  Web Designer 
-
-* **Área**  Informática, TI
-
-* **Nível** Intermédiario 
-
-* **Atribuições do cargo**  Atuei no desenvolvimento web utilizando HTML, CSS, JavaScript/jQuery. 
